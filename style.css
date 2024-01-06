@@ -126,3 +126,18 @@ nav a{
     padding: 230px;
     margin: 130px 0px;
   }
+  .about-info-container{
+    display: flex;
+    justify-content: space-around;
+  }
+  .info-title{
+    color: #757575;
+
+
+  }
+  
+  .about-info{
+    text-align: center;
+    color: #474747;
+  
+  }
