@@ -228,7 +228,7 @@ main section {
     }
 
     .banner .profile-pic {
-        width: 350px;
+        width: 300px;
       }
 
       .banner-title {
@@ -244,7 +244,9 @@ main section {
     .banner-content{
         max-width: 100%;
     }
-
+  .btn-primary{
+    font-size: 15px;
+  }
     
 
     .about{
@@ -293,7 +295,7 @@ main section {
   }
 /* media devise */
 
-@media screen and ( min-width:576px) and (max-width:960px){
+@media screen and ( min-width:576px) and (max-width:1371px){
     .header{
         
         background-image: none;
@@ -301,7 +303,7 @@ main section {
     }
 
     .banner .profile-pic {
-        width: 400px;
+        width: 350px;
         margin-left: 20px;
       }
     
